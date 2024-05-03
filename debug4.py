@@ -1,16 +1,8 @@
 #!python3
 """
-Debug this program so that it runs
-
-original code:
-x = 3
-if x = 3:
-    print("x is 3")
-else:
-    print("x = 4")
+Debug this program so that the program iterates through all of the numbers
+and prints double the value of each number
 """
-x = 3
-if x = 3:
-    print("x is 3")
-else:
-    print("x = 4")
+numbers = [5,2,3,-1,-4]
+for n in numbers
+print(2*n)

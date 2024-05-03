@@ -1,12 +1,7 @@
 #!python3
 """
-Debug this program so that it runs AND
-stores the input into the variable "data"
-
-original code:
-message="Input a number"
-data input(message)
+Debug this assignment so that it creates a LIST that contains the
+string values: cat dog bat fish turtle
 """
 
-message="Input a number"
-data input(message)
+animals = "cat","dog","bat","fish","turtle"

@@ -1,14 +1,11 @@
 #!python3
 """
-Debug this program so that it runs
-
-original code:
-x = 5
-
-if x == 3 or 4:
-    print("x is either a 3 or a 4")
+Fix this program.
+It should ask the user to enter in 10 numbers and see
+if the number is positive or negative
 """
-x = 5
-
-if x == 3 or 4:
-    print("x is either a 3 or a 4")
+for n in (10):
+if input > 0:
+print('that is a positive number')
+elif input < 0:
+print('that is a negative number')

@@ -1,13 +1,8 @@
 #!python3
 """
-Debug this program so that it reads input as an integer
-
-original code:
-a = input("enter an integer")
-answer = a + 3
-print(answer)
+Debug this program so that it repeats the loop 10 times
+and displays the numbers 11 through 20
 """
 
-a = input("enter an integer")
-answer = a + 3
-print(answer)
+for i in range(20):
+    print(i)
